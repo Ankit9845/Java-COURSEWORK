@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="playerquiz.AdminPanel.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/AdminPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="3083" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="playerquiz.PlayerHome.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/PlayerHome.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="2557" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="playerquiz.Quiz" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Quiz.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="279" x="463" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="playerquiz.StartMenu.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/StartMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="229" x="3346" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="playerquiz.Question" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Question.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="366" x="463" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="playerquiz.AllPlayerScores" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/AllPlayerScores.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="153" x="270" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="playerquiz.QuestionForm" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/QuestionForm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="364" x="1530" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="playerquiz.LoginSignUp" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/LoginSignUp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="754" width="353" x="2300" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="playerquiz.PlayerHome" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/PlayerHome.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="157" x="2693" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="playerquiz.DataList" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/DataList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="708" x="782" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="playerquiz.QuestionForm.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/QuestionForm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="1530" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="playerquiz.PlayerProfile" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/PlayerProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="326" x="1934" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="playerquiz.Reports" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Reports.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="2890" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="14" language="java" name="playerquiz" project="Finalcoursework" file="/Finalcoursework/src/playerquiz" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="817" y="-271"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="15" language="java" name="playerquiz.LoginSignUp.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/LoginSignUp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="2294" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="playerquiz.AdminPanel" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/AdminPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="3083" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="playerquiz.DBConnection" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/DBConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="186" x="1526" y="-271"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="playerquiz.StartMenu" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/StartMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="225" x="3276" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="playerquiz.Home" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Home.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="153" x="3541" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="playerquiz.Main" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="250" x="2300" y="-271"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="playerquiz.Reports.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Reports.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="2820" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="playerquiz.Home.ButtonAction" project="Finalcoursework" 
+    file="/Finalcoursework/src/playerquiz/Home.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="3615" y="813"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="23">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="24">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <nesting id="27">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="33" name="questions"/>      
+      <multiplicity id="34" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <nesting id="41">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
